@@ -72,6 +72,7 @@ media-sound/sox
 media-video/mplayer
 net-analyzer/netcat
 net-analyzer/nmap
+net-dns/bind-tools
 net-fs/sshfs
 net-im/pidgin
 net-misc/dhcpcd
