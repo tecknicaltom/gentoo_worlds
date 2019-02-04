@@ -92,6 +92,7 @@ sys-apps/mlocate
 sys-apps/usbutils
 sys-boot/efibootmgr
 sys-boot/plymouth
+sys-cluster/kubectl
 sys-devel/gdb
 sys-fs/simple-mtpfs
 sys-kernel/genkernel-next
