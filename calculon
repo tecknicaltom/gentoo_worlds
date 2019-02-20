@@ -26,6 +26,8 @@ app-text/zathura-pdf-poppler
 app-vim/closetag
 app-vim/pathogen
 dev-perl/Data-Hexify
+dev-perl/JSON
+dev-perl/JSON-XS
 dev-python/ipython
 dev-python/virtualenv
 dev-util/ctags
@@ -102,6 +104,7 @@ sys-power/pm-utils
 sys-process/htop
 sys-process/vixie-cron
 www-client/firefox
+www-client/firefox-config
 www-client/links
 x11-apps/mesa-progs
 x11-apps/setxkbmap
@@ -115,6 +118,7 @@ x11-misc/bumblebee
 x11-misc/dmenu
 x11-misc/rss-glx
 x11-misc/urxvt-font-size
+x11-misc/wmctrl
 x11-misc/xdotool
 x11-misc/xscreensaver
 x11-plugins/bfm
